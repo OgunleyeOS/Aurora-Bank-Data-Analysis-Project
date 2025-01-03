@@ -2,6 +2,10 @@
 This project involves analyzing the Aurora Bank dataset to uncover insights related to customer transactions, financial products, and banking behaviors.
 The dataset provides valuable information on customer demographics, transaction volumes and product usage, allowing for data-driven decision-making.
 
+## *Dashboard*
+![Capture](https://github.com/user-attachments/assets/8626df14-0f80-4c65-b699-94ab1353c70a)
+
+
 ## Project Overview
 The goal of this project is to clean, analyze, and visualize the Aurora Bank data to provide actionable insights that can inform business strategies. By leveraging MySQL for data cleaning and transformation and Power BI for visualization, the project aims to uncover trends and patterns that can help improve customer engagement and operational efficiency.
 
