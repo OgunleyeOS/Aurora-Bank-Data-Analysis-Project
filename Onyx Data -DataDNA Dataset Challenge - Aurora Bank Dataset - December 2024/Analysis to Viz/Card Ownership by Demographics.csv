@@ -1,0 +1,11 @@
+age_group,gender,avg_cards_per_customer
+18-24,Female,2.0199
+18-24,Male,2.0066
+25-34,Female,2.4309
+25-34,Male,2.3371
+35-44,Female,2.6949
+35-44,Male,3.0930
+45-54,Female,3.3016
+45-54,Male,3.2449
+55+,Female,4.0660
+55+,Male,3.9091

@@ -1,0 +1,5 @@
+risk_level,count(*),avg(dti_ratio),sum(total_debt)
+"Critical Risk",1545,1.731301,123325307
+"Low Risk",266,0.042970,446513
+"Moderate Risk",93,0.316022,1413118
+"High Risk",96,0.496354,2234450

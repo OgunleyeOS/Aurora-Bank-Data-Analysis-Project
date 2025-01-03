@@ -1,0 +1,9 @@
+card_brand,card_type,count(*),sum(t.amount)
+Amex,Credit,1790,90156.12999999995
+Discover,Credit,556,30106.880000000012
+Mastercard,Credit,2041,106541.4899999999
+Mastercard,Debit,10455,396825.4799999992
+Mastercard,"Debit (Prepaid)",955,20337.89000000001
+Visa,Credit,3146,175044.85000000056
+Visa,Debit,6105,234300.72000000015
+Visa,"Debit (Prepaid)",468,8836.53
